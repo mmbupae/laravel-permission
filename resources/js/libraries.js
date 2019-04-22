@@ -1,6 +1,0 @@
-import './libraries/chart'
-import './libraries/datatables'
-import './libraries/izitoast'
-// import 'libraries/select2'
-import './libraries/summernote'
-// import 'libraries/sweetalert'
